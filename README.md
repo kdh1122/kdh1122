@@ -57,17 +57,17 @@
 ---
 ### 💻 My project
 
-- 👁 [당뇨성 망막병증 진단](https://github.com/kdh1122/SOGO))(2023.11 ~ 2023.12)
-  - 클러스터링(군집화)을 통한 입지 선정과 MCLP(max covering location problem)알고리즘을 활용한 최적의 입지 선정.
-  - WCRC 2023 데이터 콘테스트-한국로봇교육콘텐츠협회장상
+- 👁 [당뇨성 망막병증 진단](https://github.com/kdh1122/Diabetic-retinopathy_Diagnosis))(2023.11 ~ 2023.12)
+  - 딥러닝 이미지 분류 팀 프로젝트
+  - 당뇨성 망막병증 중증도(0~4)를 진단하는 모델 제작
 
 - 🌆 [SOGO-경기도 도시데이터 센서 입지선정](https://github.com/kdh1122/SOGO))(2023.10 ~ 2023.11)
   - 클러스터링(군집화)을 통한 입지 선정과 MCLP(max covering location problem)알고리즘을 활용한 최적의 입지 선정.
   - WCRC 2023 데이터 콘테스트-한국로봇교육콘텐츠협회장상
   
-- 🏥 [AI-MEDICO](https://github.com/kdh1122/Flight_delay_prediction)(2023.07 ~ 2022.08)
+- 🏥 [AI-MEDICO](https://github.com/kdh1122/AI-MEDICO)(2023.07 ~ 2022.08)
   - 외국인 환자 맞춤 AI 병원 코디네이터 서비스 
-  - 빅데이터를 활용한 프로젝트
+  - 2023 데이터청년캠퍼스(을지대학교) 우수상 & AWS 1등
 
 - 📈 [스톡홀릭 증후군](https://github.com/kdh1122/MJU_SW_Contest)(2022.06 ~ 2022.07)
   - 비금융 데이터를 활용한 엔터테인먼트 분야 주가 예측
@@ -82,9 +82,9 @@
   - 개체와 SNP 정보를 이용하여 품종 분류 AI모델 개발
     
 - ✈ [항공 출발 지연 예측](https://github.com/kdh1122/Flight_delay_prediction)(2022.11 ~ 2022.12)
-  - 날씨 기반 항공 출발 지연 예측 빅데이터 팀프로젝트 수행 
+  - 날씨 기반 항공 출발 지연 예측 팀프로젝트 수행 
   - 빅데이터를 활용한 프로젝트
  
 - 🎮 [띵지런](https://github.com/kdh1122/Mjrun)(2022.11 ~ 2022.12)
-  - 날씨 기반 항공 출발 지연 예측 빅데이터 팀프로젝트 수행 
-  - 빅데이터를 활용한 프로젝트
+  - 유니티를 활용한 게임 제작 팀프로젝트
+  - 명지대 데이터테크놀로지 전공자의 입학부터 졸업 과정을 담은 러닝액션게임
