@@ -57,11 +57,11 @@
 ---
 ### 💻 My project
 
-- 👁 [당뇨성 망막병증 진단](https://github.com/kdh1122/Diabetic-retinopathy_Diagnosis))(2023.11 ~ 2023.12)
+- 👁 [당뇨성 망막병증 진단](https://github.com/kdh1122/Diabetic-retinopathy_Diagnosis)(2023.11 ~ 2023.12)
   - 딥러닝 이미지 분류 팀 프로젝트
   - 당뇨성 망막병증 중증도(0~4)를 진단하는 모델 제작
 
-- 🌆 [SOGO-경기도 도시데이터 센서 입지선정](https://github.com/kdh1122/SOGO))(2023.10 ~ 2023.11)
+- 🌆 [SOGO-경기도 도시데이터 센서 입지선정](https://github.com/kdh1122/SOGO)(2023.10 ~ 2023.11)
   - 클러스터링(군집화)을 통한 입지 선정과 MCLP(max covering location problem)알고리즘을 활용한 최적의 입지 선정.
   - WCRC 2023 데이터 콘테스트-한국로봇교육콘텐츠협회장상
   
